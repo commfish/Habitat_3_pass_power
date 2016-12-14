@@ -21,3 +21,4 @@ Steps to run:
 * in the 3_pass_power.Rmd file, change *N1* in the introduction code to reflect the prior year's MLE,
 &nbsp;
 * Run knit PDF.
+Note: There is an accompanying excel file named 'YYYY KGM Reident Fish Data and Graphs.' This file is sent from habitat along with the request to process the data. Calculations in the excel file should match with the R output.
